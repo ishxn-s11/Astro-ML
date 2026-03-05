@@ -14,7 +14,7 @@ What A FITS File Contains
 
 A FITS File Usually Has Two Main Parts:
 
-Header
+1.Header
 
 Contains Metadata (Information About The Data).
 
@@ -28,7 +28,7 @@ Exposure Time
 
 Coordinates In The Sky
 
-Data
+2.Data
 
 The Actual Scientific Data Such As:
 
